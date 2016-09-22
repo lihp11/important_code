@@ -1,0 +1,15 @@
+global_distance.m n×2经纬度阵→n-1个球面距离
+sum_global_distance.m n×2经纬度阵→n-1个球面距离
+column_time_gary.m array→时空色图
+midmif_to_longlat.m mapinfo→link struct array
+issame_points.m two points→is_same
+plot_ring_road.m shuffed link struct array→longlat_mat&plot
+speedinterp.m originmat→mat col without 0
+points_interp.m origin_points longlat→cube longlat
+dailydata_to_tsstruct.m gaode daily_data → ts struct
+get_fragindex.m data_longlat,frag_points→index_frag
+tsplot.m frag_points,tsmat→tsplot
+link_connect.m link struct array→shuffed link struct array
+plot_line_road.m shuffed link struct array→longlat_mat&plot
+main_line.m main of line_road
+main_ring.m main of ring_road

@@ -1,0 +1,6 @@
+gaode_complexity_samen_3dian.m predictability实例计算
+vector_to_string.m 向量→n个symbol字符串
+cal_complexity.m n个symbol字符串→复杂度
+lempel_ziv_entropy.m 字符串→lz熵
+predict_lowerbound.m predictability下限
+predict_upperbound.m predictability上限、解方程
